@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sounds good, I'll add a button with text Nine.",
+        "message_id": "guest06082024051732",
+        "timestamp": "06082024051733",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Nine",
         "message_id": "guest06082024051732",
