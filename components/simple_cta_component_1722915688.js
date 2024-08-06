@@ -10,7 +10,7 @@ Vue.component("simple_cta_component_1722915688", {
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
-                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-100 md:text-lg">Discover recipes, plan meals, and simplify cooking with our intuitive app.</p>
+                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-100 md:text-lg">Discover recipes, plan meals, and simplify cooking with our intuitive apps.</p>
                 </div>
                 
                 <div id="cta-button-container" class="flex">
