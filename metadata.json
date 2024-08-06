@@ -4,5 +4,6 @@
     "project_description": "an app for building the foods",
     "creation_time": "2024-08-06 03:40:04.814656",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "base"
+    "selected_starter_template_id": "base",
+    "frontend_theme_prompt": "The image employs a vibrant color scheme dominated by shades of pink and purple, with a cosmic and ethereal style featuring a large planet, mountains, and reflections in water."
 }
