@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Nine' button to be positioned on the screen?\", \"option1\": \"Center of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Nine' button is pressed?\", \"option1\": \"Navigate to a new page\", \"option2\": \"Display a pop-up message\"}], \"input_token_count\": 258, \"output_token_count\": 91, \"time_taken\": \"0:00:02.855480\"}",
         "timestamp": "06082024051736",
         "message_id": "guest06082024051732"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive nutritional information display toggle\", \"checked\": true}, {\"feature\": \"Customizable theme settings for the app interface\", \"checked\": false}, {\"feature\": \"Voice command feature for adding ingredients\", \"checked\": true}, {\"feature\": \"Real-time ingredient substitution suggestions\", \"checked\": false}, {\"feature\": \"Step-by-step cooking guide with visual cues\", \"checked\": true}, {\"feature\": \"Social sharing option for the created food recipes\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 101, \"time_taken\": \"0:00:03.071653\"}",
+        "timestamp": "06082024051736",
+        "message_id": "guest06082024051732"
     }
 ]
