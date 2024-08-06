@@ -12,5 +12,11 @@
         "content": "add a button with text Nine",
         "timestamp": "06082024051733",
         "message_id": "guest06082024051732"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sounds good, I'll add a button with text Nine.",
+        "timestamp": "06082024051733",
+        "message_id": "guest06082024051732"
     }
 ]
